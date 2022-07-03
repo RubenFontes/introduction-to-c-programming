@@ -1,10 +1,10 @@
 /*
  ============================================================================
  Name        : 001_IP.c
- Author      : Ruben
+ Author      : Ruben Fontes
  Version     :
  Copyright   : Your copyright notice
- Description : Print name in C, Ansi-style
+ Description : Hello world in C, Ansi-style
  ============================================================================
  */
 
@@ -13,7 +13,7 @@
 
 int main(void)
 {
-    puts("Olah, meu nome eh Ruben Gabriel!");
+    puts("Hello, world!");
 	
     system("pause");
     return 0;
