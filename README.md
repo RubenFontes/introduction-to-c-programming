@@ -1,7 +1,7 @@
 # Introduction to C programming
 
 This project brings together a compilation of classes, pdf, algorithms and key answers for programs in C language.
-The material is part of the course content of Introduction to Programming and Laboratory of Introduction to Programming of the Computer Engineering course (UFPB)
+The material is part of the course content of Introduction to Programming and Laboratory of Introduction to Programming of the Computer Engineering course (UFPB).
 
 ## To compile
 
