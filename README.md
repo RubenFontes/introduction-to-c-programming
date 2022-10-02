@@ -1,14 +1,14 @@
-# Introduction to C programming
+# About
 
 This project brings together a compilation of classes, pdf, algorithms and key answers for programs in C language.
 The material is part of the course content of Introduction to Programming and Laboratory of Introduction to Programming of the Computer Engineering course (UFPB).
 
-## To compile
+## Build
 
-Use [GCC](https://gcc.gnu.org/) or [MinGW](https://www.mingw-w64.org/) (for windows) to executer the programs.
+Use [GCC](https://gcc.gnu.org/) or [MinGW](https://www.mingw-w64.org/) (for windows) to compile and get an executable
 
 ```bash
-$ gcc program.c -o <programName>
+$ gcc <program.c> -o <program>
 ```
 
 ## Contributing
